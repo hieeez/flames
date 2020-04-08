@@ -1,0 +1,20 @@
+<!-- interactive record player by mitali,on solo learn 
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Record Player</title>
+    <meta charset='utf-8'>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Rubik:400,500&display=swap"
+    rel="stylesheet">
+</head>
+<body>
+    <div class="loader">LOADING</div>
+    <div class="player">
+        <div class="record on">
+            <div class="label"></div>
+            </div>
+</body>
+</html>

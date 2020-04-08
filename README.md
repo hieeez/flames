@@ -1,2 +1,1 @@
-# flames
-project1
+# excercises and solutions to issues 
